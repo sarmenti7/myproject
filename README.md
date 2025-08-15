@@ -9,3 +9,4 @@ It demonstrates the basics of working with Git and GitHub, including:
 - Connecting to a remote repository on GitHub
 - Pushing changes from local to remote
 - Pulling updates from GitHub to keep the local repository in sync
+- Contributing via forks, clones and pull requests
